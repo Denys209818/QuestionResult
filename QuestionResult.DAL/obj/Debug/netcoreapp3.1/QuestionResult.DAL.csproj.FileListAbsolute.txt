@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\bin\Debug\netcoreapp3.1\QuestionResult.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\bin\Debug\netcoreapp3.1\QuestionResult.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\bin\Debug\netcoreapp3.1\QuestionResult.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\bin\Debug\netcoreapp3.1\QuestionResult.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\bin\Debug\netcoreapp3.1\QuestionResult.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\obj\Debug\netcoreapp3.1\QuestionResult.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\obj\Debug\netcoreapp3.1\QuestionResult.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\obj\Debug\netcoreapp3.1\QuestionResult.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\obj\Debug\netcoreapp3.1\QuestionResult.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\obj\Debug\netcoreapp3.1\QuestionResult.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\obj\Debug\netcoreapp3.1\QuestionResult.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\QuestionsResults\QuestionResult.DAL\obj\Debug\netcoreapp3.1\QuestionResult.DAL.genruntimeconfig.cache
